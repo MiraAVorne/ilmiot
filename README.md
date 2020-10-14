@@ -24,5 +24,5 @@ Numeroitu lista:
    1. Kolmannen toka juttu
    
 Readme.md -tiedostoon voi laittaa myös kuvia.
-!(hyvis.jpg)
+![bla](hyvis.jpg)
 
