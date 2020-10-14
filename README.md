@@ -26,3 +26,6 @@ Numeroitu lista:
 Readme.md -tiedostoon voi laittaa myös kuvia.
 ![Hyvinvointiteknologia](hyvis.jpg)
 
+Linkitkin toimii:
+http://google.com (automaattisesti)
+[Google](http://google.com)
