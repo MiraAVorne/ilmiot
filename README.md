@@ -20,5 +20,5 @@ Numeroitu lista:
 1. Eka juttu
 1. Toka juttu
 1. Kolmas juttu
-  1. Kolmannen eka juttu
-  2. Kolmannen toka juttu
+   1. Kolmannen eka juttu
+   1. Kolmannen toka juttu
