@@ -45,3 +45,4 @@ Taulukon sarakkeen otsikko | Seuraavan sarakkeen otsikko
 -------------------------|-----------------------
 ABC | 123
 XYZ | 456
+:nerd_face:
