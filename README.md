@@ -25,3 +25,4 @@ Numeroitu lista:
    
 Readme.md -tiedostoon voi laittaa myös kuvia.
 ![Hyvinvointiteknologia](hyvis.jpg)
+
