@@ -9,3 +9,9 @@ Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:
 ##### 5. tason otsikko
 ###### 6. tason otsikko
 
+Listoja voit tehdä näin:
+* Listan ensimmäinen elementti
+* Listan toinen elementti
+* Listan kolmas elementti
+  * Kolmannen elementin ensimmäinen alielementti
+  * Kolmannen elementin toinen alielementti
