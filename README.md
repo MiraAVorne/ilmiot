@@ -1,6 +1,8 @@
 # Alan toimintaympäristöt ja ilmiöt
 Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattuna~~. 
 
+Kommentteja, jotka eivät näy README.md lukijalle voi tehdä "<!--tähän kommenttitekstiä-->" näin.
+
 Rivinvaihto tehdään kahdella välilyönnillä. 
 
 Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:  
@@ -15,7 +17,7 @@ Listoja voit tehdä näin:
 * Listan ensimmäinen elementti
 * Listan toinen elementti
 * Listan kolmas elementti
-  * Kolmannen elementin ensimmäinen alielementti
+  * Kolmannen elementin ensimmäinen alielementti <!--
   * Kolmannen elementin toinen alielementti
   
 Numeroitu lista:
