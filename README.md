@@ -1,8 +1,6 @@
 # Alan toimintaympäristöt ja ilmiöt
 Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattuna~~. 
 
-Kommentteja, jotka eivät näy README.md lukijalle voi tehdä "<!--tähän kommenttitekstiä-->" näin.
-
 Rivinvaihto tehdään kahdella välilyönnillä. 
 
 Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:  
@@ -17,14 +15,14 @@ Listoja voit tehdä näin:
 * Listan ensimmäinen elementti
 * Listan toinen elementti
 * Listan kolmas elementti
-  * Kolmannen elementin ensimmäinen alielementti <!--
+  * Kolmannen elementin ensimmäinen alielementti <!--Kaksi tabia sisennetty-->
   * Kolmannen elementin toinen alielementti
   
 Numeroitu lista:
 1. Eka juttu
 1. Toka juttu
 1. Kolmas juttu
-   1. Kolmannen eka juttu
+   1. Kolmannen eka juttu <!--Kolme tabia sisennetty-->
    1. Kolmannen toka juttu
    
 Readme.md -tiedostoon voi laittaa myös kuvia.
@@ -38,7 +36,7 @@ Näinkin voi tehdä
 > Kirjoitetaan tähän tekstiä  
 > Tähän lisää tekstiä
 
-Tässä tapauksessa teksti tulee laatikkoon:
+Tässä tapauksessa teksti tulee laatikkoon, tätä käytetään usein koodin kirjoittamiseen Readme.md -tiedostossa:
 ````
 function kirjoitaTeksti(kirjoita)
  if(kirjoita) {
@@ -50,4 +48,4 @@ Taulukon sarakkeen otsikko | Seuraavan sarakkeen otsikko
 ABC | 123
 XYZ | 456  
 
-:nerd_face:
+Voit myös kokeilla erilaisia emojeja :nerd_face: googlaa GitHub README.md emoji. 
