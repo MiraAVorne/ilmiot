@@ -1,5 +1,7 @@
 # Alan toimintaympäristöt ja ilmiöt
-Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattuna~~.  
+Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattuna~~. 
+
+Rivinvaihto tehdään kahdella välilyönnillä. 
 
 Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:  
 # 1. tason otsikko
@@ -44,5 +46,6 @@ function kirjoitaTeksti(kirjoita)
 Taulukon sarakkeen otsikko | Seuraavan sarakkeen otsikko
 -------------------------|-----------------------
 ABC | 123
-XYZ | 456
+XYZ | 456  
+
 :nerd_face:
