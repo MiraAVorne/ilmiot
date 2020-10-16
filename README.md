@@ -3,6 +3,8 @@ Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattu
 
 Rivinvaihto tehdään kahdella välilyönnillä. 
 
+![Run on Repl.it](https://repl.it/badge/github/MiraAVorne/ilmiot)](https://repl.it/github/MiraAVorne/ilmiot)
+
 Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:  
 # 1. tason otsikko
 ## 2. tason otsikko
